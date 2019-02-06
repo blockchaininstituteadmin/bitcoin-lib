@@ -1,0 +1,9 @@
+.vscode/
+.teamcity/
+# scala
+target/
+#
+ansible/
+helm-charts/
+Dockerfile
+Makefile
